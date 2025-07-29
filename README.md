@@ -22,3 +22,6 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/chow-tour.git
+
+
+[Watch Demo Video](https://youtu.be/PUSogbcVZb0)
