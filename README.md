@@ -24,5 +24,4 @@
    git clone https://github.com/your-username/chow-tour.git
 
 
-[Watch Demo Video](https://youtu.be/PUSogbcVZb0)
 [![Watch the video](https://img.youtube.com/vi/PUSogbcVZb0/0.jpg)](https://www.youtube.com/watch?v=PUSogbcVZb0)
