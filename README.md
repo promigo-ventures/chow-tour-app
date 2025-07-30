@@ -23,5 +23,4 @@
    ```bash
    git clone https://github.com/your-username/chow-tour.git
 
-
-[![Watch the video](https://img.youtube.com/vi/PUSogbcVZb0/0.jpg)](https://www.youtube.com/watch?v=PUSogbcVZb0)
+[![Watch the video](https://img.youtube.com/vi/gkju8dy6dMk/0.jpg)](https://www.youtube.com/watch?v=gkju8dy6dMk)
